@@ -4,7 +4,7 @@
  * Created: 6/2/2017 2:27:49 PM
  * Author : Oscar Choy
  * 
- * This project uses an ATMega328P board, a an external DAC converter, a potentiometer, and an
+ * This project uses an ATMega328P board, an external DAC converter, a potentiometer, and an
  * external LED light. It will dim and brighten the external LED according to the turned angle of
  * the knob on the potentiometer. Using Analog-to-Digigal conversion, Digital-to-Analog conversion,
  * and SPI, the knob's position will be used by the ATMega328P board through ADC to send 
